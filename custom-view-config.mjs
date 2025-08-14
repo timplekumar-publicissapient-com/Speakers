@@ -9,8 +9,8 @@ const config = {
       initialProjectKey: 'speakers',
     },
     production: {
-      customViewId: 'TODO',
-      url: 'https://my-custom-view.com',
+      customViewId: 'cme8f8koz002h0001txojk20k',
+      url: 'https://commercetoolspoc.vercel.app',
     },
   },
   oAuthScopes: {
