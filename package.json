@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "private": true,
+  "engines": {
+    "node": "22.18.0",
+    "npm": "11.5.2"
+  },
   "scripts": {
     "build": "mc-scripts build",
     "start": "mc-scripts start",
@@ -97,5 +101,7 @@
     "headers-polyfill": "3.2.5",
     "nwsapi": "2.2.7"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "graphql": "15.10.1"
+  }
 }
